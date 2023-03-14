@@ -7,7 +7,7 @@ run:
 	python src/main.py
 
 coverage:
-	python -m pytest --cov=src/ohce
+	python -m pytest -vvv --cov=src/ohce
 	coverage html
 	@printf "Please open the report at htmlcov/index.html\n"
 
