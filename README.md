@@ -15,6 +15,7 @@ by [@codesai](https://codesai.com/posts/2016/05/ohce-kata)
 
 *Example:*
 ```bash
+$ ohce Pedro
 > ¡Buenos días Pedro!
 $ hola
 > aloh
